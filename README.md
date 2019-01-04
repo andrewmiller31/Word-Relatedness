@@ -4,11 +4,11 @@ is on a scale of 0 - 1 where 0 is no relatedness and 1 is exact match. The progr
 
 To run wiki-relatedness.py:
 
-python wiki-relatedness.py <numpy array of stop words>
+python wiki-relatedness.py \<numpy array of stop words\>
   
 To run sw.py:
 
-stop-words.py <array name>
+stop-words.py \<array name\>
 
 ## Example Dialogue
 Input N value: 1000
