@@ -1,6 +1,6 @@
 # Word-Relatedness
 A program that determines how related two words are based on the contents of their respective Wikipedia pages. The relatedness measure
-is on a scale of -1 to 1 where -1 is no relatedness and 1 is exact match. The program works by comparing how many words are in common based of the first n amount of words. Stop words are omitted to avoid noise. The stop words are chosen by mining them from Wikipedia. You may use the ones that I found, or mine your own with sw.py. 
+is on a scale of -1 to 1 where -1 is no relatedness and 1 is exact match. The program works by comparing how many words are in common based of the first n amount of words. Stop words are omitted to avoid noise. The stop words are chosen by mining them from Wikipedia. You may use the ones that I found, or mine your own with stop-words.py. 
 
 To run wiki-relatedness.py:
 
