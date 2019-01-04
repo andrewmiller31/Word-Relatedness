@@ -6,7 +6,7 @@ To run wiki-relatedness.py:
 
 python wiki-relatedness.py \<numpy array of stop words\>
   
-To run sw.py:
+To run stop-words.py:
 
 stop-words.py \<array name\>
 
